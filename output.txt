@@ -1,0 +1,1 @@
+{"a":["3.txt"],"banana":["3.txt"],"is":["1.txt","1.txt","2.txt","3.txt"],"it":["1.txt","1.txt","2.txt","3.txt"],"what":["1.txt","2.txt"]}
